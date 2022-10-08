@@ -1,1 +1,5 @@
-
+👋 Hi, I’m @uxritik
+👀 I’m interested in coding, programming and machine learning...
+🌱 I’m currently learning ui/ux designing...
+📫 How to reach me 
+My insta: @ux_ritik
